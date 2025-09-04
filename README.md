@@ -1,2 +1,3 @@
-# xplayer
-Video Player Plugin for Wordpress.
+**Shortcode**
+
+[video_player video_url="https://yourdomain.com/video.mp4"]
