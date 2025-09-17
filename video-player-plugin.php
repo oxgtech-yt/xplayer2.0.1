@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: xplayer
- * Plugin URI: https://xdisck.site/
+ * Plugin URI: https://youtube.com/@oxgtech
  * Description: A custom video player plugin with advanced controls and features
  * Version: 2.0.1
  * Author: Team Wing
- * Author URI: https://xvips.top
+ * Author URI: https://youtube.com/@oxgtech
  * License: GPL v2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: xvips.top
@@ -127,4 +127,5 @@ function video_player_shortcode($atts) {
     <?php
     return ob_get_clean();
 }
+
 add_shortcode('video_player', 'video_player_shortcode');
