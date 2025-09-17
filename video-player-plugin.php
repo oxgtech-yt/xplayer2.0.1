@@ -82,7 +82,7 @@ function video_player_shortcode($atts) {
             <div class="join-channels">
                 <h3 class="join-title">Join Our Channels</h3>
                 <div class="channel-buttons">
-                    <a href="https://whatsapp.com/channel/0029VbAPiHW2ER6bFJkzuU06" target="_blank" class="channel-btn whatsapp-btn">
+                    <a href="https://whatsapp.com/" target="_blank" class="channel-btn whatsapp-btn">
                         <div class="btn-icon">
                             <i class="fab fa-whatsapp"></i>
                         </div>
@@ -95,7 +95,7 @@ function video_player_shortcode($atts) {
                         </div>
                     </a>
                     
-                    <a href="https://t.me/xvipstop" target="_blank" class="channel-btn telegram-btn">
+                    <a href="https://t.me/" target="_blank" class="channel-btn telegram-btn">
                         <div class="btn-icon">
                             <i class="fab fa-telegram-plane"></i>
                         </div>
@@ -108,7 +108,7 @@ function video_player_shortcode($atts) {
                         </div>
                     </a>
                     
-                    <a href="https://www.instagram.com/xvips_offical" target="_blank" class="channel-btn instagram-btn">
+                    <a href="https://www.instagram.com" target="_blank" class="channel-btn instagram-btn">
                         <div class="btn-icon">
                             <i class="fab fa-instagram"></i>
                         </div>
@@ -129,3 +129,4 @@ function video_player_shortcode($atts) {
 }
 
 add_shortcode('video_player', 'video_player_shortcode');
+
