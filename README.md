@@ -9,7 +9,7 @@ The webpage layout features a clean and straightforward video player section com
 
 **Ad Units:**
 - Top Banner Ad: 728x90 
-- Bottom Banner Ad: 300x250
+- Bottom Banner Ad: 728x90 
 - Side Widget (Join Our Channels): A sleek, rounded-corner card featuring three social buttons (WhatsApp, Telegram, Instagram). Each button is color-coded with recognizable platform branding and strong call-to-action text like Join Channel or Follow Us.
 
 **Overall Design Impression**
